@@ -1,17 +1,16 @@
 
 #kittens{
 
-	height: 700px;
+	height: 1000px;
 	background-size: cover;
-	background-image: url(../img/dawn.png);
+	background-image: url(../img/dawn.png), url(../img/night.jpg), url(../img/sunny-day.jpg);
 	background-position: center center;
-	padding-top: 280px;
+	padding-top: 700px;
 	text-align: center;
 }
 
 img{
-	position: center;
-	
-}
+	background-image: cover;
+} 
 
 
